@@ -320,4 +320,4 @@ if process_clicked:
 
 # 페이지 푸터
 st.markdown("---")
-st.markdown("© 2025 파동의 상쇄 간섭을 활용한 지능형 소음 제어 시스템")
+st.markdown("(C) 하나고등학교 융합공학동아리 융")
