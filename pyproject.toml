@@ -1,7 +1,7 @@
 [project]
 name = "ancsimulator"
 version = "1.0.0"
-description = "Simulate Active Noise Cancellation (ANC) systems with interactive visualizations."
+description = "Simulate Active Noise Cancellation (ANC) with interactive visualizations."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
