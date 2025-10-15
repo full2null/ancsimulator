@@ -10,7 +10,7 @@ import streamlit as st
 # 페이지 설정
 st.set_page_config(
     page_title="능동형 소음 제거 시뮬레이터",
-    page_icon=":mute:",
+    page_icon=":no_bell:",
     layout="wide",
 )
 
