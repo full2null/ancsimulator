@@ -1,12 +1,11 @@
 [project]
 name = "ancsimulator"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Simulate Active Noise Cancellation (ANC) systems with interactive visualizations."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "librosa>=0.11.0",
-    "matplotlib>=3.10.6",
-    "plotly>=6.3.0",
-    "streamlit>=1.49.1",
+    "plotly>=6.3.1",
+    "streamlit>=1.50.0",
 ]
